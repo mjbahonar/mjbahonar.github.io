@@ -13,20 +13,23 @@ Welcome! To download a PDF version of my resume [click here](https://mjbahonar.g
 
 ## Index
 
-[Summary](#summary)
-[Educatuin](#education)
-[Publications](##publications)
-[Fields of Interest](#fields-of-interest)
-[Experience](#experience)
-[Certifications](#certifications)
-[Languages](#languages)
-[Technical Skills](#technical-skills)
-[Soft Skills](#soft-skills)
-[Honors & Awards](#honors-&-awards)
+- [Index](#index)
+- [Summary](#summary)
+- [Education](#education)
+- [Publications](#publications)
+- [Fields of Interest](#fields-of-interest)
+- [Experience](#experience)
+- [Certifications](#certifications)
+- [Languages](#languages)
+- [Technical Skills](#technical-skills)
+- [Soft Skills](#soft-skills)
+- [Honors \& Awards](#honors--awards)
+
+
 
 ## Summary
 
-I am an experienced **Civil Engineer** with a robust background in **computer programming** and a fervent interest in machine learning. With over a decade of hands-on experience, I hold **B.Sc.** and **M.Sc.** degrees in **Civil Engineering** from Isfahan University and Yazd University, Iran. Also, I am Proficient in an array of **programming languages**. My research endeavors converge in Civil Engineering and Computer Programming, contributing to an interdisciplinary approach.
+I am an experienced **Civil Engineer** with a robust background in **computer programming** and a fervent interest in machine learning. With over a decade of hands-on experience, I hold **B.Sc.** and **M.Sc.** degrees in **Civil Engineering** from [Isfahan University](https://ui.ac.ir/) and [Yazd University](https://yazd.ac.ir/), Iran. Also, I am Proficient in an array of **programming languages**. My research endeavors converge in Civil Engineering and Computer Programming, contributing to an interdisciplinary approach.
 
 Currently, I am actively immersed in a **machine learning project** aligned with **Civil Engineering** and devoted to unlocking its potential within the field. I am passionate about pioneering innovative solutions and consistently seek to expand my horizons.
 
@@ -44,8 +47,8 @@ Currently, I am actively immersed in a **machine learning project** aligned with
 
 ## Publications
 
-*   **Solving time-dependent problems using the generalized exponential basis functions method. Modares Mechanical Engineering** - _Modares Mechanical Engineering_
-*   **FEM Analysis and Design of concrete bridge’s abutment by Strut and Tie method according to ACI 318** - _International Conference on New Materials and Structures in Civil Engineering_
+*   [**Solving time-dependent problems using the generalized exponential basis functions method. Modares Mechanical Engineering**](https://mme.modares.ac.ir/article-15-7472-fa.html) - _Modares Mechanical Engineering_
+*   [**FEM Analysis and Design of concrete bridge’s abutment by Strut and Tie method according to ACI 318**](https://civilica.com/doc/688700/) - _International Conference on New Materials and Structures in Civil Engineering_
 
 ## Fields of Interest
 
@@ -73,9 +76,9 @@ Currently, I am actively immersed in a **machine learning project** aligned with
 
 ## Certifications
 
-*   **Neural Networks and Deep Learning**  
+*   [**Neural Networks and Deep Learning**](https://www.coursera.org/account/accomplishments/certificate/ZEPFDQ5W6MA8)  
     Coursera _Mar 2023_
-*   **Supervised Machine Learning: Regression and Classification**  
+*   [**Supervised Machine Learning: Regression and Classification**](https://www.coursera.org/account/accomplishments/certificate/2TXTQ7NUMC9D)  
     Coursera _Oct 2022_
 *   **Object Oriented Application Development**  
     NIIT _Sep 2007_

@@ -19,10 +19,14 @@ I received my **B.Sc.** and **M.Sc.** degrees in **Civil Engineering** from [Isf
 
 #### Fields of intrests
 
- - Computer Programming
- - Numerical methods (finite element and meshless methods)
- - Scientific programming of numerical methods
- - AI Machine Learning
- - Mobile application & website development
+*   Computer Programming
+*   Numerical methods (finite element and meshless methods)
+*   Scientific programming of numerical methods
+*   Machine Learning and deep learning
+*   Structural Analysis
+
+
+
+### [**Click here to see my complete Resume**](https://mjbahonar.github.io/cv/)
  
 
