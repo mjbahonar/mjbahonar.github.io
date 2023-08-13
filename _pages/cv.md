@@ -11,13 +11,27 @@ redirect_from:
 
 Welcome! To download a PDF version of my resume [click here](https://mjbahonar.github.io/files/CV.pdf).
 
-
 ## Index
 
 [Summary](#summary)
+
 [Educatuin](#education)
-[Publications](#publications)
+
+[Publications](##publications)
+
 [Fields of Interest](#fields-of-interest)
+
+[Experience](#experience)
+
+[Certifications](#certifications)
+
+[Languages](#languages)
+
+[Technical Skills](#technical-skills)
+
+[Soft Skills](#soft-skills)
+
+[Honors & Awards](#honors-&-awards)
 
 ## Summary
 
@@ -27,15 +41,15 @@ Currently, I am actively immersed in a **machine learning project** aligned with
 
 ## Education
 
-*   Master’s Degree, **Structural Engineering** – Dec 2016
+> *   Master’s Degree, **Structural Engineering** – Dec 2016
+> 
+> **Yazd University**, Yazd, Iran
+> 
+> **Thesis title**: Solving linear and non-linear time-dependent problems for solid mechanics using the generalized exponential basis functions (GEBF)
 
-**Yazd University**, Yazd, Iran
-
-**Thesis title**: Solving linear and non-linear time-dependent problems for solid mechanics using the generalized exponential basis functions (GEBF)
-
-*   Bachelor of Science (BS): **Civil Engineering** – 2014
-
-**University of Isfahan**, Isfahan, Iran
+> *   Bachelor of Science (BS): **Civil Engineering** – 2014
+> 
+> **University of Isfahan**, Isfahan, Iran
 
 ## Publications
 
@@ -68,34 +82,26 @@ Currently, I am actively immersed in a **machine learning project** aligned with
 
 ## Certifications
 
-**Neural Networks and Deep Learning**  
-Coursera _Mar 2023_
-
-**Supervised Machine Learning: Regression and Classification**  
-Coursera _Oct 2022_
-
-**Object Oriented Application Development**  
-NIIT _Sep 2007_
-
-**Designing & Implementing SQL Server**  
-NIIT _Aug 2007_
-
-**C#.Net**  
-NIIT _Aug 2007_
-
-**Autodesk Certified User: AutoCAD**  
-Mehregan Institute _2012_
-
-**Building Supervision License**  
-Esfahan Construction Engineering Organization _Mar 2022_
+*   **Neural Networks and Deep Learning**  
+    Coursera _Mar 2023_
+*   **Supervised Machine Learning: Regression and Classification**  
+    Coursera _Oct 2022_
+*   **Object Oriented Application Development**  
+    NIIT _Sep 2007_
+*   **Designing & Implementing SQL Server**  
+    NIIT _Aug 2007_
+*   **C#.Net**  
+    NIIT _Aug 2007_
+*   **Autodesk Certified User: AutoCAD**  
+    Mehregan Institute _2012_
+*   **Building Supervision License**  
+    Esfahan Construction Engineering Organization _Mar 2022_
 
 ## Languages
 
-**Persian** - Native or bilingual proficiency
-
-**English** - Full professional proficiency
-
-**Arabic** - Elementary proficiency
+*   **Persian** - Native or bilingual proficiency
+*   **English** - Full professional proficiency
+*   **Arabic** - Elementary proficiency
 
 ## Technical Skills
 
