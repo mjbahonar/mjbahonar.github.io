@@ -14,23 +14,14 @@ Welcome! To download a PDF version of my resume [click here](https://mjbahonar.g
 ## Index
 
 [Summary](#summary)
-
 [Educatuin](#education)
-
 [Publications](##publications)
-
 [Fields of Interest](#fields-of-interest)
-
 [Experience](#experience)
-
 [Certifications](#certifications)
-
 [Languages](#languages)
-
 [Technical Skills](#technical-skills)
-
 [Soft Skills](#soft-skills)
-
 [Honors & Awards](#honors-&-awards)
 
 ## Summary
