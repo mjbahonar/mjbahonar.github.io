@@ -11,6 +11,14 @@ redirect_from:
 
 Welcome! To download a PDF version of my resume [click here](https://mjbahonar.github.io/files/CV.pdf).
 
+
+## Index
+
+[Summary](#summary)
+[Educatuin](#education)
+[Publications](#publications)
+[Fields of Interest](#fields-of-interest)
+
 ## Summary
 
 I am an experienced **Civil Engineer** with a robust background in **computer programming** and a fervent interest in machine learning. With over a decade of hands-on experience, I hold **B.Sc.** and **M.Sc.** degrees in **Civil Engineering** from Isfahan University and Yazd University, Iran. Also, I am Proficient in an array of **programming languages**. My research endeavors converge in Civil Engineering and Computer Programming, contributing to an interdisciplinary approach.
