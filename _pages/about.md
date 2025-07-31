@@ -1,33 +1,40 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal website!
 
-### About me
+I am a driven professional with a background in Civil/Structural Engineering and a deep passion for technology. My career has progressed from engineering design to leading software development teams and managing complex projects. Currently, as the CEO of Bahonar Engineering Group, I oversee engineering projects from conception to completion.
 
+My interests lie at the intersection of engineering, software, and data. I am actively developing skills in Artificial Intelligence, Machine Learning, and Data Science, and I am always looking for opportunities to apply these skills to solve complex, real-world problems.
 
+Education
+======
+*   **Yazd University**, *Sep 2014 - July 2017*
+    *   Master's Degree in Civil Engineering / Structural Engineering
+    *   Total GPA: 16.77 out of 20
+    *   **Thesis:** Solved linear and non-linear time-dependent problems for solid mechanics using the generalized exponential basis functions (GEBF).
 
-I am an experienced **Civil Engineer** with a robust background in **computer programming** and a fervent interest in machine learning. With over a decade of hands-on experience, I hold **B.Sc.** and **M.Sc.** degrees in Civil Engineering from [Isfahan University](https://ui.ac.ir/) and [Yazd University](https://yazd.ac.ir), Iran respectively. Also, I am Proficient in an array of **programming languages**. My research endeavors converge **Civil Engineering** and **Computer Programming**, contributing to an interdisciplinary approach.
-Currently, I am actively immersed in a **machine learning** project aligned with **Civil Engineering** and devoted to unlocking its potential within the field. I am passionate about pioneering innovative solutions and consistently seek to expand my horizons.
-    
-I have always been eager to learn and willing to gain experience. Professional progress of my colleagues and myself have always been achieved with the spirit of teamwork and perseverance.
+*   **Isfahan University**, *Sep 2010 - Oct 2014*
+    *   Bachelor of Science in Civil Engineering
+    *   Total GPA: 15.04 out of 20
 
-#### Fields of intrests
+Fields of Interest
+======
+*   Artificial intelligence and machine learning
+*   Data science and analytics
+*   Software development
+*   Computer Vision
+*   Medical devices - Healthcare
+*   Robotics
 
-*   Computer Programming
-*   Numerical methods (finite element and meshless methods)
-*   Scientific programming of numerical methods
-*   Machine Learning and deep learning
-*   Structural Analysis
-
-
-
-### [**Click here to see my complete Resume**](https://mjbahonar.github.io/cv/)
- 
-
+Technical Skills
+======
+*   **Programming:** Python, MATLAB, PHP, C++, Java, Mathematica, C#.NET
+*   **Tools and Frameworks:** deal.II, SQL Server, NumPy, Matplotlib, pandas, scikit-learn, Power BI
+*   **Operating Systems:** Windows, Linux (Ubuntu)
+*   **Web Design:** WordPress, .NET
