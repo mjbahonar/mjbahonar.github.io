@@ -23,14 +23,6 @@ Education
     *   Bachelor of Science in Civil Engineering
     *   Total GPA: 15.04 out of 20
 
-Fields of Interest
-======
-*   Artificial intelligence and machine learning
-*   Data science and analytics
-*   Software development
-*   Computer Vision
-*   Medical devices - Healthcare
-*   Robotics
 
 Technical Skills
 ======

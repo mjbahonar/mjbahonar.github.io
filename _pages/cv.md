@@ -53,3 +53,13 @@ Certifications
 *   Supervised Machine Learning: Regression and Classification, Coursera (Oct 2022)
 *   Building Supervision License, Esfahan Construction Engineering Organization (Mar 2022)
 *   Autodesk Certified User: AutoCAD, Mehregan Institute (May 2012)
+  
+  
+Projects
+======
+* Persian Carpet Image and Plan Generation System (2025, ongoing)
+    Developing a system for fine-tuning and modeling Persian carpet designs, generating precise images and plans for industrial use in carpet manufacturing machines
+* Windows application for automatic AnkiCard generation (2023)
+    Created an application that generates Anki flashcards by defining word meanings using multiple dictionary and translation APIs
+* Prediction for Titanic Passenger Survival using machine learning models (2024)
+    Developed and trained machine learning models to predict passenger survival for the classic Titanic dataset.
